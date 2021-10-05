@@ -39,11 +39,12 @@ when it finishes loading...
 Then, open it in a preveiw, so you can have the browser and code side by side
 
 
+# resources yo
 
 
 
 
-ttps://www.notion.so/teamflipside/Flipside-Crypto-Bounty-Programs-8a6400e3d85049b79875d5200206974e
+https://www.notion.so/teamflipside/Flipside-Crypto-Bounty-Programs-8a6400e3d85049b79875d5200206974e
 Content Bounties 
 
 https://docs.google.com/spreadsheets/d/1Om4Mym-zDAiPEX4e09ReRTzFyjVijnG1NbSDVbWuiV0/edit#gid=0

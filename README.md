@@ -2,6 +2,13 @@
 
 
 This uses flipside crypto velocity, pandas and streamlit. Open in gitpod for an easy time, or dont.
+Have your flipside velocity query ready to go and get the query id ()
+
+
+ex. (URL) https://app.flipsidecrypto.com/velocity/queries/770c4049-a3b7-45b0-9977-88df8f197ed9
+
+qID = "770c4049-a3b7-45b0-9977-88df8f197ed9"
+get it>?
 
 If you want to do it urself...
 

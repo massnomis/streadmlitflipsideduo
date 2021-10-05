@@ -97,3 +97,16 @@ dai2 = px.line(
 )
 st.plotly_chart(dai2, use_container_width=True)
 # 
+
+st.text('Fixed width text')
+st.markdown('_Markdown_') # see *
+st.latex(r''' e^{i\pi} + 1 = 0 ''')
+st.write('Most objects') # df, err, func, keras!
+st.write(['st', 'is <', 3]) # see *
+st.title('My title')
+st.header('My header')
+st.subheader('My sub')
+st.code('for i in range(8): foo()')
+
+st.caption('This is a small text')
+

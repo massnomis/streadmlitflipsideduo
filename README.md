@@ -1,7 +1,6 @@
 # streadmlitflipsideduo
 
 
-git clone 
-
+https://gitpod.io/#github.com/massnomis/streadmlitflipsideduo
 
 streamlit run

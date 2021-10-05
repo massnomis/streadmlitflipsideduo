@@ -12,4 +12,4 @@
 # pip install statsmodels
 
 
-# streamlit run test2.py #base = "dark"
+# streamlit run test2.py

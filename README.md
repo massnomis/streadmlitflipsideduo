@@ -2,10 +2,10 @@
 
 # https://gitpod.io/#github.com/massnomis/streadmlitflipsideduo
 
-# pip install streamlit
+'''pip install streamlit'''
 
-# pip install plotly
+'''pip install plotly'''
 
-# pip install statsmodels
+'''pip install statsmodels'''
 
-# streamlit run test2.py
+'''streamlit run test2.py'''

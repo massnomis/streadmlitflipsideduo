@@ -1,10 +1,11 @@
 # streadmlitflipsideduo
-
+*
 
 # https://gitpod.io/#github.com/massnomis/streadmlitflipsideduo
-
+*
+**
 # pip install streamlit
-
+**
 
 # pip install plotly
 

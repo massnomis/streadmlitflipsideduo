@@ -26,7 +26,7 @@ If you want to do it urself...
 Or gitpod(better)
 # https://gitpod.io/#github.com/massnomis/streadmlitflipsideduo
 when it finishes loading...
-
+click new workswapce!!
 
 ```pip install streamlit```
 
